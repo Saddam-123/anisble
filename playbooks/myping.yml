@@ -1,5 +1,0 @@
----
-- hosts: ubuntuos
-  tasks:
-   - name: ping into the node1
-     ping:
